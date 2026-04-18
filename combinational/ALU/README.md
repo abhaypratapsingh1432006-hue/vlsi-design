@@ -61,3 +61,10 @@ The designs are developed as part of my learning in Digital VLSI and RTL Design.
 ##  Note
 
 This folder will be continuously updated with more ALU designs and improvements as I progress in VLSI design.
+
+## Vivado (Implemented Schematic Design)
+
+here is the image of vivado implemented schematic 
+<img width="1626" height="913" alt="2bit alu implemented schema" src="https://github.com/user-attachments/assets/ffbbdd0e-c046-4a7f-bde4-50efff10ed39" />
+
+
